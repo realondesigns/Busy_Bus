@@ -92,9 +92,11 @@ body {
   padding-top: 5px;
   width: 30%;
   text-align: center;
+  padding-left: 10px;
   vertical-align: middle;
-  margin-left:1%;
+  margin-right:1%;
   color: #535353;
+  font-weight:600;
 }
 
 .route_data h3 {
